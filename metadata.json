@@ -1,0 +1,6 @@
+{
+  "name": "NovaBanca",
+  "description": "Simulador bancario moderno con pago de servicios e historial de transacciones en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NovaBanca</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_services">Servicios</string>
+    <string name="nav_history">Historial</string>
+    <string name="live_badge">EN VIVO</string>
+    <string name="available_balance">Saldo disponible</string>
+    <string name="quick_pay">Pagar</string>
+    <string name="quick_deposit">Depositar</string>
+    <string name="quick_transfer">Transferir</string>
+    <string name="quick_freeze">Congelar</string>
+    <string name="quick_unfreeze">Activar</string>
+    <string name="card_frozen_banner">Tarjeta congelada • Pagos bloqueados</string>
+    <string name="pending_services_title">Servicios pendientes</string>
+    <string name="recent_activity_title">Movimientos en tiempo real</string>
+    <string name="view_all">Ver todo</string>
+    <string name="pay_service_cta">Pagar servicio</string>
+    <string name="add_service_cta">Nuevo servicio</string>
+    <string name="status_processing">Procesando…</string>
+    <string name="status_completed">Completada</string>
+    <string name="status_failed">Rechazada</string>
+    <string name="receipt_title">Comprobante digital</string>
+    <string name="empty_history_title">Sin movimientos</string>
+    <string name="empty_history_subtitle">Realiza un pago de servicio o depósito para verlo reflejado aquí en tiempo real.</string>
+    <string name="empty_services_title">Sin servicios en esta categoría</string>
+    <string name="empty_services_subtitle">Prueba otro filtro o agrega un nuevo servicio personalizado.</string>
+</resources>
